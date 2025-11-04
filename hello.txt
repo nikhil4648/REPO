@@ -1,2 +1,3 @@
 hello git hub
 im updating a text in txt file
+just now updating new text into this file 
