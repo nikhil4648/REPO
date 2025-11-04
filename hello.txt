@@ -1,1 +1,2 @@
 hello git hub
+im updating a text in txt file
